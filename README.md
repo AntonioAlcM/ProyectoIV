@@ -1,5 +1,7 @@
 # ProyectoIV
 
+[![Build Status](https://travis-ci.org/Koltharius/ProyectoIV.svg?branch=master)](https://travis-ci.org/Koltharius/ProyectoIV)
+
 Repositorio para el proyecto de IV del curso 17/18
 
 ## Descripción del Proyecto
